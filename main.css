@@ -20,7 +20,7 @@ div {
 button {
   list-style: none;
   font-weight: 400;
-  font-family: "Carter One";
+  font-family: "Carter One" !important;
   font-size: 18px;
   border: none;
   border-radius: 2px;
