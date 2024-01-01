@@ -42,6 +42,7 @@ input {
   font-family: "Carter One";
   font-size: 18px;
   border: none;
+  background-color: #bfd7ea;
 }
 
 input:focus {
