@@ -24,16 +24,16 @@ button {
   font-size: 18px;
   border: none;
   border-radius: 2px;
-  padding: 10px 15px;
-  width: 250px;
+  padding: 15px 15px;
+  width: 300px;
   background: tomato;
   color: #0b3954;
 }
 
 input {
   border-radius: 2px;
-  width: 250px;
-  padding: 10px 15px;
+  width: 300px;
+  padding: 15px 15px;
   font-weight: 400;
   font-family: "Carter One";
   font-size: 18px;
@@ -60,7 +60,7 @@ li {
 
 ul {
   display: flex;
-  width: 250px;
+  width: 300px;
   flex-wrap: wrap;
   gap: 10px;
 }
