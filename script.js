@@ -62,3 +62,11 @@ onValue(itemsLocation, function (snapshot) {
     ulEl.innerHTML = "<li>Nothing yet</li>";
   }
 });
+
+document.addEventListener("click", function (event) {
+  // Check if the click is outside the input field
+  if (!inputEl.contains(event.target)) {
+    // Remove focus from the input field
+    inputEl.blur();
+  }
+});
