@@ -17,6 +17,10 @@ div {
   gap: 15px;
 }
 
+img {
+  width: 100px;
+}
+
 button {
   list-style: none;
   font-weight: 400;
